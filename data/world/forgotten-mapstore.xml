@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <tile x="972" y="983" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="972" y="984" z="6">
+    <item id="6445"/>
+  </tile>
+  <tile x="980" y="983" z="5">
+    <item id="1220"/>
+  </tile>
+  <tile x="980" y="983" z="6">
+    <item id="6445"/>
+  </tile>
+  <tile x="980" y="983" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="988" y="984" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="986" y="988" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="998" y="984" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1004" y="985" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="1001" y="989" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="990" y="991" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="981" y="993" z="7">
+    <item id="6445"/>
+  </tile>
+  <tile x="985" y="993" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="983" y="997" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="985" y="999" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="977" y="998" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="972" y="1003" z="7">
+    <item id="6447"/>
+  </tile>
+  <tile x="977" y="1002" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="981" y="1004" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="990" y="1001" z="7">
+    <item id="6445"/>
+  </tile>
+  <tile x="990" y="1002" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="995" y="1006" z="7">
+    <item id="6447"/>
+  </tile>
+  <tile x="997" y="995" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1007" y="995" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="955" y="995" z="5">
+    <item id="1219"/>
+  </tile>
+  <tile x="955" y="995" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="955" y="995" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="957" y="998" z="5">
+    <item id="1221"/>
+  </tile>
+  <tile x="956" y="998" z="6">
+    <item id="1221"/>
+  </tile>
+  <tile x="957" y="998" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="961" y="995" z="6">
+    <item id="1221"/>
+  </tile>
+  <tile x="961" y="995" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="963" y="994" z="7">
+    <item id="6445"/>
+  </tile>
+  <tile x="961" y="999" z="6">
+    <item id="1221"/>
+  </tile>
+  <tile x="961" y="999" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="964" y="997" z="7">
+    <item id="6445"/>
+  </tile>
+  <tile x="964" y="998" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="980" y="1014" z="7">
+    <item id="6444"/>
+  </tile>
+  <tile x="981" y="1014" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="982" y="1014" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="983" y="1014" z="7">
+    <item id="6444"/>
+  </tile>
+  <tile x="978" y="1017" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="985" y="1017" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="966" y="986" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="966" y="981" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="955" y="982" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="966" y="981" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="962" y="970" z="6">
+    <item id="1222"/>
+  </tile>
+  <tile x="962" y="970" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="966" y="968" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="955" y="975" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="955" y="968" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="943" y="963" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="941" y="965" z="6">
+    <item id="1222"/>
+  </tile>
+  <tile x="947" y="963" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="955" y="959" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="955" y="959" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="952" y="961" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="967" y="957" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="967" y="957" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="970" y="959" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="985" y="958" z="6">
+    <item id="1718"/>
+  </tile>
+  <tile x="986" y="958" z="6">
+    <item id="1719"/>
+  </tile>
+  <tile x="987" y="958" z="6">
+    <item id="1720"/>
+  </tile>
+  <tile x="985" y="957" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="988" y="958" z="6">
+    <item id="1719"/>
+  </tile>
+  <tile x="981" y="961" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="982" y="962" z="6">
+    <item id="1721"/>
+  </tile>
+  <tile x="982" y="963" z="6">
+    <item id="1723"/>
+  </tile>
+  <tile x="981" y="961" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1015" y="958" z="6">
+    <item id="2591"/>
+  </tile>
+  <tile x="1021" y="959" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1014" y="963" z="6">
+    <item id="1721"/>
+  </tile>
+  <tile x="1013" y="960" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1016" y="962" z="6">
+    <item id="1221"/>
+  </tile>
+  <tile x="1017" y="963" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="1014" y="964" z="6">
+    <item id="1722"/>
+  </tile>
+  <tile x="1014" y="965" z="6">
+    <item id="1722"/>
+  </tile>
+  <tile x="1014" y="966" z="6">
+    <item id="1722"/>
+  </tile>
+  <tile x="1014" y="967" z="6">
+    <item id="1712"/>
+  </tile>
+  <tile x="1013" y="966" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1019" y="966" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="1023" y="965" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="1014" y="968" z="6">
+    <item id="1713"/>
+  </tile>
+  <tile x="1018" y="969" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1024" y="957" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="1024" y="961" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="1028" y="966" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="973" y="978" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="979" y="978" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="973" y="973" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="973" y="974" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="973" y="969" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="979" y="969" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="976" y="972" z="6">
+    <item id="1222"/>
+  </tile>
+  <tile x="976" y="975" z="6">
+    <item id="1222"/>
+  </tile>
+  <tile x="976" y="975" z="5">
+    <item id="1222"/>
+  </tile>
+  <tile x="976" y="972" z="5">
+    <item id="1222"/>
+  </tile>
+  <tile x="976" y="975" z="4">
+    <item id="1221"/>
+  </tile>
+  <tile x="976" y="972" z="4">
+    <item id="1221"/>
+  </tile>
+  <tile x="1006" y="959" z="7">
+    <item id="6447"/>
+  </tile>
+  <tile x="1008" y="957" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1006" y="960" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1000" y="957" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1001" y="957" z="7">
+    <item id="6446"/>
+  </tile>
+  <tile x="1002" y="959" z="7">
+    <item id="6445"/>
+  </tile>
+  <tile x="998" y="960" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1002" y="960" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1006" y="959" z="6">
+    <item id="6445"/>
+  </tile>
+  <tile x="1010" y="959" z="6">
+    <item id="6445"/>
+  </tile>
+  <tile x="1006" y="960" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="1006" y="961" z="6">
+    <item id="6447"/>
+  </tile>
+  <tile x="1001" y="957" z="6">
+    <item id="6444"/>
+  </tile>
+  <tile x="1002" y="959" z="6">
+    <item id="6445"/>
+  </tile>
+  <tile x="1002" y="960" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="1002" y="961" z="6">
+    <item id="6445"/>
+  </tile>
+  <tile x="1006" y="959" z="5">
+    <item id="6445"/>
+  </tile>
+  <tile x="1010" y="959" z="5">
+    <item id="6447"/>
+  </tile>
+  <tile x="1006" y="960" z="5">
+    <item id="1219"/>
+  </tile>
+  <tile x="1006" y="961" z="5">
+    <item id="6445"/>
+  </tile>
+  <tile x="1008" y="962" z="5">
+    <item id="6444"/>
+  </tile>
+  <tile x="1001" y="957" z="5">
+    <item id="6444"/>
+  </tile>
+  <tile x="1002" y="960" z="5">
+    <item id="1219"/>
+  </tile>
+  <tile x="1006" y="959" z="4">
+    <item id="6445"/>
+  </tile>
+  <tile x="1006" y="960" z="4">
+    <item id="1219"/>
+  </tile>
+  <tile x="1002" y="959" z="4">
+    <item id="6445"/>
+  </tile>
+  <tile x="1002" y="960" z="4">
+    <item id="1219"/>
+  </tile>
+  <tile x="1002" y="961" z="4">
+    <item id="6445"/>
+  </tile>
+  <tile x="1010" y="949" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1013" y="952" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="1006" y="949" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1003" y="952" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="993" y="949" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="996" y="952" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="989" y="949" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="986" y="952" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1010" y="949" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="1006" y="949" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="993" y="949" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="989" y="949" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="1010" y="949" z="5">
+    <item id="1219"/>
+  </tile>
+  <tile x="1006" y="949" z="5">
+    <item id="1220"/>
+  </tile>
+  <tile x="993" y="949" z="5">
+    <item id="1220"/>
+  </tile>
+  <tile x="989" y="949" z="5">
+    <item id="1220"/>
+  </tile>
+  <tile x="980" y="938" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="980" y="941" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="996" y="938" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="996" y="938" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1002" y="937" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1005" y="930" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1010" y="930" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="1015" y="930" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1020" y="937" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1020" y="942" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1020" y="946" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1020" y="950" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1039" y="957" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="1037" y="959" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1038" y="959" z="7">
+    <item id="6446"/>
+  </tile>
+  <tile x="1039" y="957" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1045" y="959" z="7">
+    <item id="6444"/>
+  </tile>
+  <tile x="1046" y="959" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1045" y="961" z="6">
+    <item id="1221"/>
+  </tile>
+  <tile x="1037" y="964" z="7">
+    <item id="6444"/>
+  </tile>
+  <tile x="1040" y="964" z="7">
+    <item id="6253"/>
+  </tile>
+  <tile x="1046" y="967" z="7">
+    <item id="6445"/>
+  </tile>
+  <tile x="1051" y="972" z="6">
+    <item id="1221"/>
+  </tile>
+  <tile x="1051" y="972" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1053" y="973" z="5">
+    <item id="1219"/>
+  </tile>
+  <tile x="1053" y="973" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1056" y="974" z="6">
+    <item id="1221"/>
+  </tile>
+  <tile x="1049" y="976" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1052" y="982" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="1057" y="978" z="6">
+    <item id="1222"/>
+  </tile>
+  <tile x="1058" y="978" z="6">
+    <item id="1221"/>
+  </tile>
+  <tile x="1057" y="978" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="1019" y="978" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1019" y="989" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1019" y="997" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1015" y="1006" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1023" y="1006" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1010" y="1004" z="7">
+    <item id="1221"/>
+  </tile>
+  <tile x="1006" y="1009" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="1006" y="1009" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1028" y="997" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1038" y="997" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1045" y="989" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1045" y="991" z="7">
+    <item id="1637"/>
+  </tile>
+  <tile x="1052" y="989" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="1052" y="991" z="7">
+    <item id="1636"/>
+  </tile>
+  <tile x="1024" y="989" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1024" y="978" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="1038" y="978" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1038" y="989" z="7">
+    <item id="1219"/>
+  </tile>
+  <tile x="1019" y="978" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="1019" y="989" z="6">
+    <item id="1220"/>
+  </tile>
+  <tile x="1038" y="989" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="1038" y="978" z="6">
+    <item id="1219"/>
+  </tile>
+  <tile x="1010" y="973" z="7">
+    <item id="1220"/>
+  </tile>
+  <tile x="997" y="975" z="6">
+    <item id="6444"/>
+  </tile>
+  <tile x="998" y="975" z="6">
+    <item id="1222"/>
+  </tile>
+  <tile x="999" y="975" z="6">
+    <item id="6446"/>
+  </tile>
+  <tile x="997" y="972" z="6">
+    <item id="6444"/>
+  </tile>
+  <tile x="998" y="972" z="6">
+    <item id="1221"/>
+  </tile>
+  <tile x="999" y="972" z="6">
+    <item id="6444"/>
+  </tile>
+  <tile x="987" y="972" z="6">
+    <item id="6444"/>
+  </tile>
+  <tile x="988" y="972" z="6">
+    <item id="1221"/>
+  </tile>
+  <tile x="989" y="972" z="6">
+    <item id="6444"/>
+  </tile>
+  <tile x="987" y="975" z="6">
+    <item id="6446"/>
+  </tile>
+  <tile x="988" y="975" z="6">
+    <item id="1222"/>
+  </tile>
+  <tile x="989" y="975" z="6">
+    <item id="6446"/>
+  </tile>
+  <tile x="997" y="975" z="5">
+    <item id="6446"/>
+  </tile>
+  <tile x="998" y="975" z="5">
+    <item id="1221"/>
+  </tile>
+  <tile x="995" y="978" z="5">
+    <item id="6445"/>
+  </tile>
+  <tile x="995" y="970" z="5">
+    <item id="6445"/>
+  </tile>
+  <tile x="997" y="972" z="5">
+    <item id="6444"/>
+  </tile>
+  <tile x="998" y="972" z="5">
+    <item id="1221"/>
+  </tile>
+  <tile x="999" y="972" z="5">
+    <item id="6444"/>
+  </tile>
+  <tile x="991" y="970" z="5">
+    <item id="6445"/>
+  </tile>
+  <tile x="987" y="972" z="5">
+    <item id="6444"/>
+  </tile>
+  <tile x="988" y="972" z="5">
+    <item id="1221"/>
+  </tile>
+  <tile x="989" y="972" z="5">
+    <item id="6444"/>
+  </tile>
+  <tile x="987" y="975" z="5">
+    <item id="6444"/>
+  </tile>
+  <tile x="988" y="975" z="5">
+    <item id="1221"/>
+  </tile>
+  <tile x="989" y="975" z="5">
+    <item id="6444"/>
+  </tile>
+  <tile x="879" y="749" z="6">
+    <item id="1254"/>
+  </tile>
+  <tile x="880" y="748" z="7">
+    <item id="1251"/>
+  </tile>
+  <tile x="882" y="749" z="7">
+    <item id="1254"/>
+  </tile>
+  <tile x="885" y="749" z="6">
+    <item id="1254"/>
+  </tile>
+  <tile x="884" y="748" z="7">
+    <item id="1251"/>
+  </tile>
+  <tile x="900" y="752" z="7">
+    <item id="1539"/>
+  </tile>
+  <tile x="876" y="761" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="882" y="759" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="888" y="761" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="902" y="756" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="903" y="756" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="902" y="760" z="7">
+    <item id="1214"/>
+  </tile>
+  <tile x="924" y="757" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="925" y="757" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="921" y="762" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="923" y="761" z="7">
+    <item id="1211"/>
+  </tile>
+  <tile x="926" y="761" z="7">
+    <item id="1211"/>
+  </tile>
+  <tile x="928" y="762" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="911" y="750" z="6">
+    <item id="6440"/>
+  </tile>
+  <tile x="913" y="747" z="5">
+    <item id="1222"/>
+  </tile>
+  <tile x="914" y="747" z="5">
+    <item id="1221"/>
+  </tile>
+  <tile x="912" y="750" z="6">
+    <item id="6440"/>
+  </tile>
+  <tile x="913" y="750" z="6">
+    <item id="1222"/>
+  </tile>
+  <tile x="914" y="750" z="6">
+    <item id="1221"/>
+  </tile>
+  <tile x="915" y="750" z="6">
+    <item id="6440"/>
+  </tile>
+  <tile x="916" y="750" z="6">
+    <item id="6440"/>
+  </tile>
+  <tile x="949" y="747" z="7">
+    <item id="1811"/>
+  </tile>
+  <tile x="950" y="744" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="950" y="747" z="7">
+    <item id="1811"/>
+  </tile>
+  <tile x="951" y="747" z="7">
+    <item id="1811"/>
+  </tile>
+  <tile x="956" y="748" z="7">
+    <item id="2160" count="100"/>
+    <item id="6527" count="26"/>
+    <item id="2493"/>
+  </tile>
+  <tile x="959" y="749" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="960" y="743" z="7">
+    <item id="7413"/>
+    <item id="2533"/>
+  </tile>
+  <tile x="961" y="743" z="7">
+    <item id="7413"/>
+    <item id="2533"/>
+    <item id="2496"/>
+  </tile>
+  <tile x="962" y="743" z="7">
+    <item id="7413"/>
+    <item id="2533"/>
+    <item id="2496"/>
+  </tile>
+  <tile x="963" y="743" z="7">
+    <item id="7413"/>
+    <item id="2533"/>
+    <item id="2496"/>
+  </tile>
+  <tile x="964" y="743" z="7">
+    <item id="7413"/>
+    <item id="2533"/>
+  </tile>
+  <tile x="972" y="743" z="7">
+    <item id="4848"/>
+  </tile>
+  <tile x="973" y="743" z="7">
+    <item id="5952"/>
+  </tile>
+  <tile x="974" y="743" z="7">
+    <item id="4848"/>
+  </tile>
+  <tile x="960" y="744" z="7">
+    <item id="7899"/>
+    <item id="7379"/>
+    <item id="2214"/>
+  </tile>
+  <tile x="960" y="745" z="7">
+    <item id="7894"/>
+    <item id="7365" count="1"/>
+    <item id="6500" count="1"/>
+  </tile>
+  <tile x="960" y="746" z="7">
+    <item id="7891"/>
+  </tile>
+  <tile x="961" y="744" z="7">
+    <item id="7899"/>
+    <item id="7379"/>
+    <item id="2214"/>
+  </tile>
+  <tile x="961" y="745" z="7">
+    <item id="7894"/>
+    <item id="7365" count="1"/>
+    <item id="6500" count="1"/>
+  </tile>
+  <tile x="961" y="746" z="7">
+    <item id="7891"/>
+  </tile>
+  <tile x="962" y="744" z="7">
+    <item id="7899"/>
+    <item id="7379"/>
+    <item id="2214"/>
+  </tile>
+  <tile x="962" y="745" z="7">
+    <item id="7894"/>
+    <item id="7365" count="1"/>
+    <item id="6500" count="1"/>
+  </tile>
+  <tile x="962" y="746" z="7">
+    <item id="7891"/>
+  </tile>
+  <tile x="963" y="744" z="7">
+    <item id="7899"/>
+    <item id="7379"/>
+    <item id="2214"/>
+  </tile>
+  <tile x="963" y="745" z="7">
+    <item id="7894"/>
+    <item id="7365" count="1"/>
+    <item id="6500" count="1"/>
+  </tile>
+  <tile x="963" y="746" z="7">
+    <item id="7891"/>
+  </tile>
+  <tile x="964" y="744" z="7">
+    <item id="7899"/>
+    <item id="7379"/>
+    <item id="2214"/>
+  </tile>
+  <tile x="964" y="745" z="7">
+    <item id="7894"/>
+    <item id="7365" count="1"/>
+    <item id="6500" count="1"/>
+  </tile>
+  <tile x="964" y="746" z="7">
+    <item id="7891"/>
+  </tile>
+  <tile x="968" y="745" z="7">
+    <item id="1224"/>
+  </tile>
+  <tile x="972" y="744" z="7">
+    <item id="2453"/>
+  </tile>
+  <tile x="972" y="745" z="7">
+    <item id="2656"/>
+    <item id="2352"/>
+  </tile>
+  <tile x="972" y="746" z="7">
+    <item id="7730"/>
+    <item id="2090"/>
+  </tile>
+  <tile x="973" y="744" z="7">
+    <item id="2534"/>
+    <item id="4848"/>
+  </tile>
+  <tile x="973" y="745" z="7">
+    <item id="2656"/>
+    <item id="2352"/>
+  </tile>
+  <tile x="973" y="746" z="7">
+    <item id="7730"/>
+  </tile>
+  <tile x="974" y="744" z="7">
+    <item id="2453"/>
+  </tile>
+  <tile x="974" y="745" z="7">
+    <item id="2656"/>
+    <item id="2352"/>
+  </tile>
+  <tile x="974" y="746" z="7">
+    <item id="7730"/>
+    <item id="2090"/>
+  </tile>
+  <tile x="975" y="745" z="7">
+    <item id="7382"/>
+    <item id="2352"/>
+  </tile>
+  <tile x="975" y="746" z="7">
+    <item id="7421"/>
+  </tile>
+  <tile x="960" y="749" z="7">
+    <item id="1222"/>
+  </tile>
+  <tile x="964" y="748" z="7">
+    <item id="7365" count="5"/>
+  </tile>
+  <tile x="965" y="748" z="7">
+    <item id="2214"/>
+  </tile>
+  <tile x="976" y="744" z="7">
+    <item id="2352"/>
+  </tile>
+  <tile x="976" y="745" z="7">
+    <item id="7382"/>
+    <item id="2352"/>
+  </tile>
+  <tile x="976" y="746" z="7">
+    <item id="7421"/>
+  </tile>
+  <tile x="890" y="798" z="7">
+    <item id="1214"/>
+  </tile>
+  <tile x="890" y="806" z="7">
+    <item id="1214"/>
+  </tile>
+  <tile x="904" y="806" z="7">
+    <item id="1213"/>
+  </tile>
+  <tile x="904" y="798" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="918" y="798" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="918" y="806" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="932" y="806" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="932" y="798" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="946" y="798" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="946" y="806" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="960" y="806" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="960" y="798" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="974" y="798" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="974" y="806" z="7">
+    <item id="1213"/>
+  </tile>
+  <tile x="988" y="806" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="988" y="798" z="7">
+    <item id="1213"/>
+  </tile>
+  <tile x="1002" y="798" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="1016" y="798" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="1030" y="798" z="7">
+    <item id="1213"/>
+  </tile>
+  <tile x="1030" y="806" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="1016" y="806" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="1002" y="806" z="7">
+    <item id="1212"/>
+  </tile>
+  <tile x="934" y="940" z="7">
+    <item id="1251"/>
+  </tile>
+  <tile x="941" y="941" z="5">
+    <item id="5518"/>
+  </tile>
+  <tile x="941" y="940" z="7">
+    <item id="5518"/>
+  </tile>
+  <tile x="945" y="944" z="7">
+    <item id="5518"/>
+  </tile>
+</map>
